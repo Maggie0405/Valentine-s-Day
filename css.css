@@ -1,0 +1,80 @@
+header {
+   text-align: center;
+   background-position: center;
+   background-size: auto;
+   color: #AD5A5A;
+   font-family:fantasy;
+   font-weight: bold;
+ }
+ body{
+   background: url('./background.jpg') no-repeat;
+   margin: 10px 100px 10px 100px;
+   background-size: 100% 100%;
+   background-attachment: fixed;
+   font-weight: bold;
+ }
+
+ h1.head {
+   font-size: 80px;
+   font-family: cursive;
+ }
+ img {
+   margin: 40px 20px 20px 20px;
+   border: 7px solid white;
+   border-radius: 20px;
+ }
+ ul.nav li{
+   padding: 10px;
+   background-color: #f1f1f1;
+   width:160px;
+   display: inline;
+   border-radius: 10px;
+   text-align: center;
+ }
+ ul.nav{
+   padding-inline-start: 0px;
+   opacity: 0.6;
+ }
+
+ li a{
+   font-size: 15px;
+   color:#AD5A5A;
+   padding: 8px 16px;
+   text-decoration: inherit;
+   font-family: fantasy;
+ }
+
+ li a:hover{
+   background-color: #555;
+   color: white;
+ }
+
+ ul.drop1 li{
+   display: inline;
+   padding-left: 0px 10px 0px 10px;
+   color: blue;
+   margin: 0px;
+   font-family: sans-serif;
+ }
+ div.container h2{
+   text-decoration-style: dashed;
+   text-align: center;
+   color: #FF8F59;
+ }
+div.container{
+  width:1190px;
+  height:550px;
+  margin: 100px 0px;
+  background-color: #FFF7FB;
+  overflow: scroll;
+  opacity: 0.8;
+  border-radius: 20px
+}
+div.guandong{
+  width: 1190px;
+  height:30px;
+}
+div.container p{
+  margin: 10px 40px;
+  font-family: STLiti;
+}

@@ -1,0 +1,25 @@
+header {
+   text-align: center;
+   background-position: center;
+   background-size: auto;
+   color: #AD5A5A;
+   font-family:Verdana;
+ }
+ body{
+   background: url('./about us.jpg') no-repeat;
+   margin: 10px 100px 10px 100px;
+   background-size:100%;
+   background-attachment:local;
+ }
+ div.part1{
+   float: left;
+   width: 33.33%;
+ }
+div.part2{
+  float: ;
+  width: 33.33%;
+}
+div.part3{
+  float: right;
+  width:33.33%;
+}
